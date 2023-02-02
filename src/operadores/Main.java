@@ -1,3 +1,5 @@
+package operadores;
+
 public class Main {
     public static void main(String[] args) {
         double salarioMinimo = 2.5; // é igual a 2,5 e não ígual a 2500 reais.
